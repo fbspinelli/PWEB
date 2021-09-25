@@ -1,0 +1,20 @@
+footer {
+ text-align: center;
+ position: absolute;
+ width: 100%;  
+ clear: both;
+ margin-top: 20px;
+}
+
+.img-responsive {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#TelaCadastro{
+    text-align: center;
+    height: 500px;
+    margin-top: 60px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
